@@ -107,4 +107,4 @@ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output
 * [Dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification?select=garbage_classification)
 * [ImageNet Documentation](https://github.com/dusty-nv/jetson-inference/blob/master/docs/imagenet-console-2.md)
 * [Jetson Inference GitHub](https://github.com/dusty-nv/jetson-inference)
-* [Video Demonstration]()
+* [Video Demonstration](https://www.youtube.com/watch?v=ZYxjIZmlM6g)
