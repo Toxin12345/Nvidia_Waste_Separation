@@ -1,6 +1,6 @@
 # Waste Classification
 
-Description goes here
+My model helps the user classify waste by explaining to them what the image that they uploaded classifies as.
 
 ## Overview
 
