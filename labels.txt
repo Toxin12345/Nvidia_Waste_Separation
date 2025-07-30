@@ -1,0 +1,10 @@
+battery
+biological
+cardboard
+clothes
+green-grass
+metal
+paper
+plastic
+trash
+white-glass
